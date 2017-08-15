@@ -61,7 +61,7 @@ a
 {
 	margin:10px 0 0 0;
 	display:inline-block;
-	border:1px solid #49d292;
+	border:1px solid #6bd8a5;
 	background:#49d292;
 	font-size:18px;
 	padding:15px 30px;
@@ -72,7 +72,7 @@ a
 }
 a:hover
 {
-	background:#F7E6B5;
-	box-shadow:0 0 5px rgba(247,230,181,.8);
-	border:1px solid #c4ab66;
+	background:#e8f79a;
+	box-shadow:0 0 5px rgba(232,247,154,.8);
+	border:1px solid #f8ffd4;
 }
