@@ -81,6 +81,7 @@ a:hover
 }
 .button:hover
 {
+	color:rgba(0,0,0,.95);
 	background:#e8f79a;
 	box-shadow:0 0 5px rgba(232,247,154,.8);
 	border:1px solid #f8ffd4;
