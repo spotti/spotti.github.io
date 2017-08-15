@@ -59,7 +59,16 @@ p
 }
 a
 {
-	margin:10px 0 0 0;
+	color:#49d292;
+	transition:color 200ms;
+}
+a:hover
+{
+	color:#e8f79a;
+}
+.button
+{
+	margin:10px 0 20px 0;
 	display:inline-block;
 	border:1px solid #6bd8a5;
 	background:#49d292;
@@ -70,7 +79,7 @@ a
 	transition:background 200ms, box-shadow 200ms, border 200ms;
 	box-shadow:0 0 5px rgba(73,210,146,.8);
 }
-a:hover
+.button:hover
 {
 	background:#e8f79a;
 	box-shadow:0 0 5px rgba(232,247,154,.8);
