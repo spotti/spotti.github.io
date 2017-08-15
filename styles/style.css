@@ -61,14 +61,14 @@ a
 {
 	margin:10px 0 0 0;
 	display:inline-block;
-	border:1px solid #bd3b77;
-	background:rgba(250,103,171,1);
+	border:1px solid #49d292;
+	background:#49d292;
 	font-size:18px;
 	padding:15px 30px;
 	color:rgba(0,0,0,.95);
 	border-radius:10px;
 	transition:background 200ms, box-shadow 200ms, border 200ms;
-	box-shadow:0 0 5px rgba(250,103,171,.8);
+	box-shadow:0 0 5px rgba(73,210,146,.8);
 }
 a:hover
 {
