@@ -2,3 +2,7 @@
 # Set XSS Protection header
 Header set X-XSS-Protection "1; mode=block"
 </IfModule>
+
+<filesMatch ".(js)$">
+Header set Cache-Control "max-age=84600, public"
+</filesMatch>
